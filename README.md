@@ -19,5 +19,4 @@ Desenvolvo sistemas, painéis administrativos e bots para Discord e comunidades 
 <a href="https://discord.com/users/1516839192372576363"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 </div>
-
 Atualiza README do perfil
